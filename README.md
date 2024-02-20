@@ -1,4 +1,4 @@
-# ICA_EmotionRecognition
+# IEEG_ICA_EmotionRecognition
 Project based on ICA, CCNN, GCNN for emotion recognition.
 This project aims to explore the field of electroencephalographic (EEG) signals in the context of training neural networks for emotion recognition using the SEED IV dataset.
 
