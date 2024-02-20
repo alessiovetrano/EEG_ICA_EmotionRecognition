@@ -20,3 +20,12 @@ To utilize this code, please follow these steps:
    - sklearn (latest version)
    - typing (latest version)
 
+3. **Run the Code**: Once the dataset is downloaded and dependencies are installed, you can run the code using your preferred Python environment.
+```python
+python cnn_ica.py
+```
+3. **Run the Tensorboard**: 
+```python
+  tensorboard --logdir=path/of/training/directory --bind_all 
+```
+If you want to use a specific port, add the flag --port followed by the desired port number.
